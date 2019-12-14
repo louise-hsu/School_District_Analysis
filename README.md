@@ -32,7 +32,7 @@ By Performing the tasks, I learned the following:
 - PyCitySchools_Challenge: The Module 4 Challenge
 
 ## Summary
-***Please note: The summary is found in the PyCitySchools.ipnyb. in the School_District_Analysis Folder in Github 
+*** Please note: The summary is found in the PyCitySchools.ipnyb. in the School_District_Analysis Folder in Github 
 
 The analysis of the school district show that:
  - There are a total of 15 schools and 39,170 in the district, with a total budget of $24,649,428. The total average math score  is 79, average reading score is 81.9, % Passing Math is 75, % Passing Reading is 86, and % overall passing is 80. 
@@ -52,7 +52,7 @@ The analysis of the school district show that:
  3. Explain how your PyCitySchool analysis changes after you handle the incorrect data
  
  ## Challenge Summary
- ***Please note: The summary/answers to the questions are found in the PyCitySchools_Challenge.ipynb
+ *** Please note: The summary/answers to the questions are found in the PyCitySchools_Challenge.ipynb
 
 After removing the reading and math scores, answer the following questions:
 How is the district summary affected?
