@@ -35,7 +35,7 @@ By Performing the tasks, I learned the following:
 ***Please note: The summary is found in the PyCitySchools.ipnyb. in the School_District_Analysis Folder in Github***
 
 The analysis of the school district show that:
- - There are a total of 15 schools and 39,170 in the district, with a total budget of $24,649,428. The total average math score  is 79, average reading score is 81.9, % Passing Math is 75, % Passing Reading is 86, and % overall passing is 80. 
+ - There are a total of 15 schools and 39,170 students in the district, with a total budget of $24,649,428. The total average math score  is 79, average reading score is 81.9, % Passing Math is 75, % Passing Reading is 86, and % overall passing is 80. 
  - To find more details on the values per school - please go to per_school_summary_df in the file.
  - The 5 top schools with highest % overall passing are Cabrera, Thomas, Pena, Griffin, and Wilson High School. (Highest ---> lowest order)
  - The 5 top schools with the lowest % overall passing are Rodriguez, Figueroa, Huang, Johnson, and Ford High School. ( worst ---> best order)
