@@ -54,15 +54,25 @@ The analysis of the school district show that:
  ## Challenge Summary
  ***Please note: The summary/answers to the questions are found in the PyCitySchools_Challenge.ipynb***
 
-After removing the reading and math scores, answer the following questions:
+- After removing the reading and math scores, answer the following questions:
 How is the district summary affected?
 
-How is the school summary affected?
+The district summary % overall passing decreased by 1%. Even though this is not an immense change, the decrease indicates that the average of the values converted to NaN were above the average. Thomas High School 9th grades as a whole performed above average with the previous scores. 
 
-How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
+- How is the school summary affected?
 
-How does removing the ninth-grade scores affect the Math and Reading Scores by Grade, Scores by School Spending, Scores by School Size, and Scores by School Type? 
- 
- 
- 
- 
+The overall school summary was not affected. The other values for other schools were unchanged. The only values that changed were values for Thomas High School. 
+
+- How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
+
+In the previous data with the 9th grade Thomas High School, Thomas High School had the 2nd highest % overall passing. Without 9th grade Thomas Highschool reading/math scores, Thomas High school became the school with the lowest % overall passing. The 9th grade Thomas High School math/reading scores previously helped the school's performance and metrics. 
+
+- How does removing the ninth-grade scores affect the Math and Reading Scores by Grade, Scores by School Spending, Scores by School Size, and Scores by School Type? 
+
+Removing the ninth grade scores affected the math and reading scores by Grade cause there was no data for 9th grade scores at Thomas High School, therefore it showed as "NaN". All other values were unchanged. 
+
+The math/reading scores, % passing math/reading, and %overall passing of School Spending ranges $630-644 decreased because Thomas High School falls under this spending range per student. Since ninth grade Thomas high school scores were good and increased overall scores/% passing, the absence of these score data caused this spending range bin to decrease in math/reading scores, % passing math/reading, and % overall passing. 
+
+The % passing math/reading, and %overall passing of the Large School Size  decreased because Thomas High School falls under this school size. Since ninth grade Thomas high school scores were good and increased overall scores/% passing, the absence of these score data caused this school size category to decrease in  % passing math/reading, and % overall passing. 
+
+Since Thomas High School falls under the category of a Charter type, the absence of the 9th grade Thomas High School math/reading scores lowered the % math/reading and % overall of the Charter type data. 
